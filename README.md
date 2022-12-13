@@ -60,4 +60,4 @@ For this project we use Covid-19 Cases data from Johns-Hopkins, CDC data about m
 
 [Philadelphia Vaccine Data](https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/vaccines/vaccine-data/)
 
-[All Zillow Data] (https://www.zillow.com/research/data/)
+[All Zillow Data](https://www.zillow.com/research/data/)
